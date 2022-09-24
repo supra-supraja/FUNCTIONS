@@ -1,0 +1,30 @@
+#Arithmetic Operators
+
+
+def fun(x,y):
+    print(x+y)
+    print(x-y)
+    print(x*y)
+    print(x/y)
+    print(x//y)
+    print(x%y)
+x=int(input())
+y=int(input())
+fun(x,y)
+
+
+#Sqaure Rootdef sqrt(n):
+    return n**2
+n=int(input())
+print(sqrt(n))
+
+
+#Cube Root
+
+
+def cubrt(n):
+    return n**3
+n=int(input())
+print(cubrt(n))
+
+
